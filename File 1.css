@@ -1,0 +1,26 @@
+body {
+    background-color: lightblue;
+   }
+   
+#introdução{
+    color: green;
+    font-style: oblique;
+    font-size: 50px;
+    text-align: center;text-align: center;
+    ;;    
+} 
+.defaut{
+    font-size: 25px
+;   font-family: Georgia, 'Times New Roman', Times, serif
+} 
+h2{font-size: 40px;}
+.sites{
+    font-size: 20px;
+    Padding: 20px;
+    border: 5px solid #CCC;
+    background-color: greenyellow;
+    margin-left: 10px;
+    margin-right: 700px;
+    text-align: center;text-align: center;
+
+}
